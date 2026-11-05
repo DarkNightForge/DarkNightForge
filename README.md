@@ -71,6 +71,6 @@ Outside of schoolwork, I use AI to learn, as a teacher that explains things rath
 
 ---
 
-<p align="center"><code>~/links</code> &nbsp; <a href="https://eashanbabber.com">Portfolio</a> · <a href="https://github.com/DarkNightForge">GitHub</a> · <a href="https://www.linkedin.com/in/eashanbabber/">LinkedIn</a> · <a href="mailto:eashan@babber.com">Email</a></p>
+<p align="center"><code>~/links</code> &nbsp; <a href="https://eashanbabber.com">Portfolio</a> · <a href="https://github.com/DarkNightForge">GitHub</a> · <a href="https://www.linkedin.com/in/eashanbabber/">LinkedIn</a> · <a href="mailto:eashan@babber.com">eashan@babber.com</a></p>
 
 <p align="center"><sub>Star and pull-request counts as of November 2026.</sub></p>
